@@ -1,0 +1,6 @@
+{
+  "name": "KGC Football",
+  "description": "Simulation réaliste de football et paris sportifs virtuels 100% hors-ligne avec moteur de match temps réel et cotes dynamiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
